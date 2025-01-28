@@ -1,5 +1,4 @@
-
-![clearbox_ai_solutions_cover](https://github.com/user-attachments/assets/72d5a402-97b7-4a9d-a7fe-488a82826c59)
+![clearbox_ai_solutions_cover](https://github.com/user-attachments/assets/7724ec93-b73a-4508-9716-a8a3d6c0e83e)
 
 # Welcome to Clearbox AI 🌟
 
