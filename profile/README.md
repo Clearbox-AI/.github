@@ -1,3 +1,6 @@
+
+![clearbox_ai_solutions_cover](https://github.com/user-attachments/assets/72d5a402-97b7-4a9d-a7fe-488a82826c59)
+
 # Welcome to Clearbox AI 🌟
 
 At the heart of every successful AI system lies one essential component: **high-quality data**.
